@@ -1,6 +1,5 @@
 class Message {
    // Write code here!
-}
 constructor(name, commands) {
    if (!name) {
      throw new Error("Name required.");

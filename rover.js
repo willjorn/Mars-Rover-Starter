@@ -1,5 +1,5 @@
 class Rover {
-   class Rover {
+ 
       constructor(position) {
         this.position = position;
         this.mode = 'NORMAL';
@@ -45,6 +45,6 @@ class Rover {
       }
     }
     
-}
+
 
 module.exports = Rover;
